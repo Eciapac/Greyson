@@ -170,6 +170,7 @@
 }
 .project{
     background: url(../images/collection.jpg);
+    background-position: center;
     height: 404px;
     background-size: cover;
     background-attachment: fixed;
